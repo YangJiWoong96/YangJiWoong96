@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm JiWoong Yang  
 
-<!--
-**YangJiWoong96/YangJiWoong96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am deeply interested in practical applications of **RAG** and **Agents**, focusing on mathematical optimization in vector spaces and pipeline optimization leveraging LLM context.  
+I am currently studying **Diffusion Models** and **Reinforcement Learning**. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=radical)  
+
+---
+
+## 🛠 Skills  
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML/DL Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-008000?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-ffcc00?style=for-the-badge)
+
+**LLM & RAG**  
+![HuggingFace](https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
+![ClovaX](https://img.shields.io/badge/ClovaX-00A862?style=for-the-badge)
+
+**Backend & MLOps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Data & Visualization**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge)
+
+---
+
+## 🌱 About Me
+- **First Author of ICML 2025 MAS Workshop Paper** ✍  
+- Currently developing a **personalized AI assistant app using Flutter + FastAPI**  
+  - Goal: **Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems** to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.

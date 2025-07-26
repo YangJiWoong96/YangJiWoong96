@@ -21,20 +21,16 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**. ðŸš
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-008000?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-ffcc00?style=for-the-badge)
 
 **LLM & RAG**  
 ![HuggingFace](https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
-![ClovaX](https://img.shields.io/badge/ClovaX-00A862?style=for-the-badge)
 
 **Backend & MLOps**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Data & Visualization**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)

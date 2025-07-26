@@ -41,6 +41,7 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 ---
 
 ## 🌱 About Me
-- **First Author of ICML 2025 MAS Workshop Paper** ✍  
+- **First Author of [ICML 2025 MAS Workshop Paper](https://www.arxiv.org/pdf/2507.05321)**
 - Currently developing a **personalized AI assistant app using Flutter + FastAPI**  
-  - Goal: **Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems** to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.
+  - Goal: **Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems** to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.  
+In the future, I aim to build an interactive chatbot that integrates user location data, calendars, and context databases via MCP, leveraging both foreground and background services.

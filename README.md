@@ -1,7 +1,7 @@
-# 👋 Hi, I'm JiWoong Yang  
+# Hi, I'm JiWoong Yang  
 
 I am deeply interested in practical applications of **RAG** and **Agents**, focusing on mathematical optimization in vector spaces and pipeline optimization leveraging LLM context.  
-I am currently studying **Diffusion Models** and **Reinforcement Learning**. 🚀  
+I am currently studying **Diffusion Models** and **Reinforcement Learning**. 
 
 ---
 

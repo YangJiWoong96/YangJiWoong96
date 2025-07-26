@@ -3,6 +3,15 @@
 I am passionate about practical applications of **RAG** and **Agents**, with a focus on mathematical optimization in vector spaces and pipeline optimization leveraging **LLM context**.  
 I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 
+## About Me
+- **First Author of [ICML 2025 MAS Workshop Paper](https://www.arxiv.org/pdf/2507.05321)**
+- **RAG corporate project with Clabi** – [Project Repository](https://github.com/YangJiWoong96/AIFFELTHON)
+- Currently developing a **[personalized AI assistant app](https://github.com/YangJiWoong96/secretary_app)** using Flutter + FastAPI  
+  - **Goal:**  
+    Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.  
+  - **Future Vision:**  
+    Build an interactive chatbot that integrates user location data, calendars, and context databases via MCP, leveraging both foreground and background services.
+
 ---
 
 **Reinforcement Learning (Studying)**  
@@ -85,12 +94,3 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge)
 
 ---
-
-## 🌱 About Me
-- **First Author of [ICML 2025 MAS Workshop Paper](https://www.arxiv.org/pdf/2507.05321)**
-- **RAG corporate project with Clabi** – [Project Repository](https://github.com/YangJiWoong96/AIFFELTHON)
-- Currently developing a **[personalized AI assistant app](https://github.com/YangJiWoong96/secretary_app)** using Flutter + FastAPI  
-  - **Goal:**  
-    Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.  
-  - **Future Vision:**  
-    Build an interactive chatbot that integrates user location data, calendars, and context databases via MCP, leveraging both foreground and background services.

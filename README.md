@@ -88,8 +88,9 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 
 ## 🌱 About Me
 - **First Author of [ICML 2025 MAS Workshop Paper](https://www.arxiv.org/pdf/2507.05321)**
+- **RAG corporate project with Clabi** – [Project Repository](https://github.com/YangJiWoong96/AIFFELTHON)
 - Currently developing a **[personalized AI assistant app](https://github.com/YangJiWoong96/secretary_app)** using Flutter + FastAPI  
   - **Goal:**  
-    **Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems** to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.  
+    Integrating conversation-based context memory (Redis + Milvus RAG) with Agent systems to learn user preferences and patterns, delivering real-time personalized schedules and recommendations.  
   - **Future Vision:**  
     Build an interactive chatbot that integrates user location data, calendars, and context databases via MCP, leveraging both foreground and background services.

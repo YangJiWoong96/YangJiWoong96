@@ -43,19 +43,25 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**LLM & RAG**  
+**LLMs & Frameworks**  
 ![ClovaX](https://img.shields.io/badge/ClovaX-00A862?style=for-the-badge)
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
+
+**Agent & Orchestration**  
 ![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00C7B7?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
+
+**Vector DB & Retrieval**  
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Ensemble Retriever](https://img.shields.io/badge/Ensemble%20Retriever-6A0DAD?style=for-the-badge)
+
+**Utilities & Optimization**  
 ![Chain of Density](https://img.shields.io/badge/Chain%20of%20Density-8A2BE2?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
 
 **Backend & MLOps**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

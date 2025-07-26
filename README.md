@@ -60,8 +60,13 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Ensemble Retriever](https://img.shields.io/badge/Ensemble%20Retriever-6A0DAD?style=for-the-badge)
 
-**Utilities & Optimization**  
+**Pipeline Optimization**  
 ![Chain of Density](https://img.shields.io/badge/Chain%20of%20Density-8A2BE2?style=for-the-badge)
+![Sequential Chain](https://img.shields.io/badge/Sequential%20Chain-0EA5E9?style=for-the-badge)
+![Router Chain](https://img.shields.io/badge/Router%20Chain-3B82F6?style=for-the-badge)
+![HyDE](https://img.shields.io/badge/HyDE-9333EA?style=for-the-badge)
+![RAG Routing](https://img.shields.io/badge/RAG%20Routing-6366F1?style=for-the-badge)
+![Reranking](https://img.shields.io/badge/Reranking-4B5563?style=for-the-badge)
 
 **Backend & MLOps**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

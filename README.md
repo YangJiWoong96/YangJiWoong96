@@ -4,7 +4,7 @@ I am passionate about practical applications of **RAG** and **Agents**, with a f
 I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 
 ## About Me
-- **First Author of [ICML 2025 MAS Workshop Paper](https://www.arxiv.org/pdf/2507.05321)**
+- **First Author of [ICML 2025 MAS](https://www.arxiv.org/pdf/2507.05321)**
 - **RAG corporate project with Clabi** – [Project Repository](https://github.com/YangJiWoong96/AIFFELTHON)
 - Currently developing a **[personalized AI assistant app](https://github.com/YangJiWoong96/secretary_app)** using Flutter + FastAPI  
   - **Goal:**  

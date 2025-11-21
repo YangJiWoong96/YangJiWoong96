@@ -44,53 +44,41 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 
 **Languages & Core**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**ML/DL Frameworks**  
+**ML / DL & Data**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**LLMs & Frameworks**  
-![ClovaX](https://img.shields.io/badge/ClovaX-00A862?style=for-the-badge)
-![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
-
-**Agent & Orchestration**  
-![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-00C7B7?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
-
-**Vector DB & Retrieval**  
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Ensemble Retriever](https://img.shields.io/badge/Ensemble%20Retriever-6A0DAD?style=for-the-badge)
-
-**Pipeline Optimization**  
-![Chain of Density](https://img.shields.io/badge/Chain%20of%20Density-8A2BE2?style=for-the-badge)
-![Sequential Chain](https://img.shields.io/badge/Sequential%20Chain-0EA5E9?style=for-the-badge)
-![Router Chain](https://img.shields.io/badge/Router%20Chain-3B82F6?style=for-the-badge)
-![HyDE](https://img.shields.io/badge/HyDE-9333EA?style=for-the-badge)
-![RAG Routing](https://img.shields.io/badge/RAG%20Routing-6366F1?style=for-the-badge)
-![Reranking](https://img.shields.io/badge/Reranking-4B5563?style=for-the-badge)
-
-**Backend & MLOps**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Frontend & App Development**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Data & Visualization**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge)
 
----
+**LLM, RAG & Agents**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-00C7B7?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-6366F1?style=for-the-badge)
+![sLLM SFT/DPO](https://img.shields.io/badge/sLLM%20SFT%2FDPO-A855F7?style=for-the-badge)
+![Multi-agent Orchestration](https://img.shields.io/badge/Multi--agent%20Orchestration-10B981?style=for-the-badge)
+
+**Vector DB & Retrieval**  
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Backend & Infra**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Frontend & App Development**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+

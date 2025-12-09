@@ -15,8 +15,15 @@ I am currently studying **Diffusion Models** and **Reinforcement Learning**.
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YangJiWoong96&show_icons=true&theme=radical&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YangJiWoong96&layout=compact&theme=radical)
+
+<p align="left">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YangJiWoong96&show_icons=true&theme=radical" />
+</p>
+
+<p align="left">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJiWoong96&layout=compact&theme=radical" />
+</p>
+
 
 ---
 

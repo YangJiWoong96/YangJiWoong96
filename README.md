@@ -1,7 +1,7 @@
 # Hi, I'm JiWoong Yang  
 
 I am passionate about practical applications of **RAG** and **Agents**, with a focus on mathematical optimization in vector spaces and pipeline optimization leveraging **LLM context**.  
-I am currently studying **Diffusion Models** and **Reinforcement Learning**.
+I am currently researching multi-agent systems that leverage real user interaction logs to achieve true hyper-personalization.
 
 ## About Me
 - **First Author of [ICML 2025 MAS](https://www.arxiv.org/pdf/2507.05321)**

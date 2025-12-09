@@ -27,15 +27,15 @@ I am currently researching multi-agent systems that leverage real user interacti
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**LLM, RAG & Agents**  
+**LLM & Agents**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6366F1?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
 
-**Vector DB & Retrieval**  
+**RAG & Vector DB**  
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6366F1?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 

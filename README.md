@@ -34,7 +34,7 @@ I am currently researching multi-agent systems that leverage real user interacti
 ![LangGraph](https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF5733?style=for-the-badge)
 
-**RAG & Vector DB**  
+**RAG & Memory Systems(Vector DB)**  
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6366F1?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-0073CF?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
